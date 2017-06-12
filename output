@@ -1,6 +1,8 @@
-trois lapins		|	three rabbits
-lapins de Grenoble	|	rabbits of Grenoble
-
+parallel text sentences
+---------------------------------------------
+trois lapins		|	three rabbits		|
+lapins de Grenoble	|	rabbits of Grenoble	|
+---------------------------------------------
 Initial Table:
 
   words    Grenoble   de   lapins  trois 
